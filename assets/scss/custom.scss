@@ -1,0 +1,67 @@
+body.dark {
+  background: #162036;
+}
+
+.site-footer {
+  padding: 0 !important;
+}
+
+/* link colours are set in the custom theme file but need to add these to also make buttons/navbar links orange */
+.btn-outline-primary { 
+  color: #EF7F27;
+  border-color: #EF7F27;
+}
+
+.btn-outline-primary:hover {
+  color: #FFF;
+  background-color: #EF7F27;
+  border-color: #EF7F27;
+}
+
+.article-metadata a:hover {
+  color: #EF7F27;
+}
+
+.nav-link:hover {
+  color: #EF7F27 !important;
+}
+
+.hero-lead-new {
+  max-width: 768px;
+  font-size: 1rem !important;
+}
+
+.hero-lead-new a {
+  color: #EF7F27 !important;
+  text-decoration: none !important;
+}
+
+.hero-lead-new a:hover {
+  color: #F7A25F !important;
+  text-decoration: underline !important;
+}
+
+.hero-media {
+  height: auto !important;
+}
+
+/* Style buttons */
+.btnn {
+  background-color: #EF7F27; /* Blue background */
+  border: none; /* Remove borders */
+  color: white; /* White text */
+  padding: 12px 16px; /* Some padding */
+  font-size: 16px; /* Set a font size */
+  cursor: pointer; /* Mouse pointer on hover */
+  width: 100%;
+}
+
+/* Darker background on mouse-over */
+.btnn:hover {
+  background-color: #F7A25F;
+}
+
+.center-button {
+  margin: auto;
+  width: 75%;
+}
