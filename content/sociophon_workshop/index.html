@@ -1968,7 +1968,7 @@ color: #819198; }
 <h3 class="subtitle project-tagline"><div class="subsub">
 Part 0: Workshop introduction
 </div></h3>
-<h4 class="author project-author">George Bailey <br><br> <a href="https://twitter.com/grbails" target="_blank"><span class="fab fa-twitter-square fa-3x"></a> <a href="mailto:george.bailey@york.ac.uk" target="_blank"><span class="fas fa-envelope-square fa-3x"></a> <a href="http://www-users.york.ac.uk/~gb1055/" target="_blank"><span class="fas fa-globe fa-3x"></i></a> <br><br> <a href="index.html" class="btn">Part 0: <br>Introduction</a> <a href="pt1_formants.html" class="btn">Part 1:<br>Vowel formants</a> <a href="pt2_trajectories.html" class="btn">Part 2:<br>Formant trajectories</a></h4>
+<h4 class="author project-author">George Bailey <br><br> <a href="https://twitter.com/grbails" target="_blank"><span class="fab fa-twitter-square fa-3x"></a> <a href="mailto:george.bailey@york.ac.uk" target="_blank"><span class="fas fa-envelope-square fa-3x"></a> <a href="https://www.gbailey.uk/" target="_blank"><span class="fas fa-globe fa-3x"></i></a> <br><br> <a href="index.html" class="btn">Part 0: <br>Introduction</a> <a href="pt1_formants.html" class="btn">Part 1:<br>Vowel formants</a> <a href="pt2_trajectories.html" class="btn">Part 2:<br>Formant trajectories</a></h4>
 </section>
 
 
@@ -2012,7 +2012,7 @@ Part 0: Workshop introduction
 <p>Throughout these materials, the R code will appear in chunks. In all cases, the output of each chunk of code will also appear below. For example:</p>
 <div class="sourceCode" id="cb1"><pre class="sourceCode r"><code class="sourceCode r"><a class="sourceLine" id="cb1-1" data-line-number="1"><span class="dv">15</span> <span class="op">+</span><span class="st"> </span><span class="dv">7</span></a></code></pre></div>
 <pre><code>## [1] 22</code></pre>
-<p>When referring to R packages, functions, or the names of objects loaded into the workspace, they will appear in <code>this font</code>.</p>
+<p>When referring to R packages, functions, or code in-line, they will appear in <code>this font</code>. Dataframes loaded into the workspace, and their column names, will appear in <strong>bold</strong>.</p>
 <div class="section bigbox overview">
 <p><span class="big-label">Overview</span></p>
 <p>Each section contains an initial overview…</p>
@@ -2036,9 +2036,9 @@ Part 0: Workshop introduction
 <p>You’ll also want to set this folder as your working directory in R - basically this means that R will look in this folder by default when you’re saving/loading things. For example, I would set my working directory to:</p>
 <div class="sourceCode" id="cb3"><pre class="sourceCode r"><code class="sourceCode r"><a class="sourceLine" id="cb3-1" data-line-number="1"><span class="kw">setwd</span>(<span class="st">&quot;~/Dropbox/Teaching/sociophonetics_workshop/&quot;</span>)</a></code></pre></div>
 <p>This means that if I want to load one of the datafiles we’ll need for the workshop, I can just say:</p>
-<div class="sourceCode" id="cb4"><pre class="sourceCode r"><code class="sourceCode r"><a class="sourceLine" id="cb4-1" data-line-number="1"><span class="kw">read_csv</span>(<span class="st">&quot;data/vowels.csv&quot;</span>)</a></code></pre></div>
+<div class="sourceCode" id="cb4"><pre class="sourceCode r"><code class="sourceCode r"><a class="sourceLine" id="cb4-1" data-line-number="1"><span class="kw">read_csv</span>(<span class="st">&quot;data/workshop_vowels.csv&quot;</span>)</a></code></pre></div>
 <p>Instead of:</p>
-<div class="sourceCode" id="cb5"><pre class="sourceCode r"><code class="sourceCode r"><a class="sourceLine" id="cb5-1" data-line-number="1"><span class="kw">read_csv</span>(<span class="st">&quot;~/Dropbox/Teaching/sociophonetics_workshop/data/vowels.csv&quot;</span>)</a></code></pre></div>
+<div class="sourceCode" id="cb5"><pre class="sourceCode r"><code class="sourceCode r"><a class="sourceLine" id="cb5-1" data-line-number="1"><span class="kw">read_csv</span>(<span class="st">&quot;~/Dropbox/Teaching/sociophonetics_workshop/data/workshop_vowels.csv&quot;</span>)</a></code></pre></div>
 <p>You can always check what your current working directory is set to by running:</p>
 <div class="sourceCode" id="cb6"><pre class="sourceCode r"><code class="sourceCode r"><a class="sourceLine" id="cb6-1" data-line-number="1"><span class="kw">getwd</span>()</a></code></pre></div>
 <p>If you want to set your working directory but you’re not sure of the full file path to the <code>sociophonetics_workshop</code> folder you just created, there’s an even easier way of setting it in R. Once you’ve saved your empty script into the folder, you can click at the top of the screen on <em>Session</em> → <em>Set Working Directory</em> → <em>To Source File Location</em></p>
