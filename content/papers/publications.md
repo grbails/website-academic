@@ -8,7 +8,7 @@ active = true  # Activate this widget? true/false
 weight = 90  # Order that this section will appear.
 
 title = "Publications"
-subtitle = ""
+subtitle = "(If you don't have access to any of these papers, just get in touch and I'll happily send you a copy)"
 
 [content]
   # Page type to display. E.g. post, talk, or publication.

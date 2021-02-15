@@ -6,7 +6,7 @@ authors:
 #- admin (use admin for a clickable author link)
 - 'Diansheng Guo'
 - 'Jack Grieve'
-date: "2020-01-01T00:00:00Z"
+date: "2020-09-01T00:00:00Z"
 doi: ""
 featured: true
 image:
@@ -21,10 +21,10 @@ image:
 publication: "In P. Honeybone & W. Maguire, *Dialect writing and the North of England*"
 publication_short: 
 publication_types:
-- "2"
-publishDate: "2020-00-00T00:00:00Z"
+- "6"
+publishDate: "2020-09-00T00:00:00Z"
 #slides: example
-summary: "(forthcoming) In *Dialect writing and the North of England*"
+summary: "(2020) In *Dialect writing and the North of England*"
 title: "The graphical representation of phonetic dialect features of the North of England on social media"
 #url_code: ''
 #url_dataset: ''
