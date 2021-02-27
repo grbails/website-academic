@@ -19,7 +19,7 @@ tags: ["dialectology"]
 title: 'Dialect maps'
 ---
 
-I run the **UK Dialect Maps** site, which includes over **30 interactive maps** plotting the incredible regional diversity in dialects of the UK. The project began in 2014 alongside [Laurel MacKenzie](http://www.laurelmackenzie.com/) and [Danielle Turton](https://danielleturton.rbind.io/) and still gets updated each year with new data. It features: 
+I run the **Our Dialects** site, which includes over **30 interactive dialect maps** plotting the incredible regional diversity in English dialects of the UK. The project began in 2014 alongside [Laurel MacKenzie](http://www.laurelmackenzie.com/) and [Danielle Turton](https://danielleturton.rbind.io/) and still gets updated each year with new data. It features: 
 
 - dialect questionnaire data from over 8,000 respondents
 - respondents ranging in age from 10 to 89, and spanning a geographical region from Lewis to Cornwall
