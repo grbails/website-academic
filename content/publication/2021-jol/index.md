@@ -3,7 +3,7 @@ abstract: "In north-western varieties of British English the historical process 
 authors:
 - 'George Bailey'
 #- admin (use admin for a clickable author link)
-date: "2020-12-01T00:00:00Z"
+date: "2021-08-01T00:00:00Z"
 doi: ""
 featured: true
 image:
@@ -21,7 +21,7 @@ publication_types:
 - "2"
 publishDate: "2020-12-00T00:00:00Z"
 #slides: example
-summary: "(2020, FirstView) Journal of Linguistics"
+summary: "(2021) Journal of Linguistics"
 title: "Insertion and deletion in Northern English (ng): Interacting innovations in the life cycle of phonological processes"
 #url_code: ''
 #url_dataset: ''
