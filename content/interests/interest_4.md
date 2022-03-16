@@ -51,4 +51,4 @@ hero_media = "dialectology.png"
 #  label = '<a class="js-github-release" href="https://sourcethemes.com/academic/updates" data-repo="gcushen/hugo-academic">Latest release<!-- V --></a>'
 +++
 
-I love data visualisation, and this goes hand in hand with my interest in dialectology and regional variation. I've been involved in a cool project with [Laurel MacKenzie](http://www.laurelmackenzie.com/) and [Danielle Turton](https://danielleturton.rbind.io/) mapping regional variation throughout the UK, which you can see [here](http://projects.alc.manchester.ac.uk/ukdialectmaps/).
+I love data visualisation, and this goes hand in hand with my interest in dialectology and regional variation. I've been involved in a cool project with [Laurel MacKenzie](http://www.laurelmackenzie.com/) and [Danielle Turton](https://danielleturton.rbind.io/) mapping regional variation throughout the UK, which you can see [here](https://www.ourdialects.uk/).

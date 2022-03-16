@@ -51,4 +51,4 @@ hero_media = "twitter.png"
 #  label = '<a class="js-github-release" href="https://sourcethemes.com/academic/updates" data-repo="gcushen/hugo-academic">Latest release<!-- V --></a>'
 +++
 
-I also work a lot with large corpora of Twitter data to investigate regional variation and to explore innovative methods in variationist linguistics. I've already collected and analysed a 16 million tweet corpus of geotagged tweets, which you can read about [here](../slides/2016_Twitter_slides.pdf), and I've also delivered workshops on how to collect and analyse Twitter data for linguistic research (you can access materials from the latest one [here](/twitter_workshop/)). 
+I also work a lot with large corpora of Twitter data as an innovative tool to investigate regional variation. I've worked on regional patterns of '[dialect writing](../papers/2020_dw_preprint.pdf)' on Twitter to explore how users portray their spoken dialect on social media, and I've also delivered workshops on how to collect and analyse Twitter data for linguistic research (you can access materials from the latest one [here](/twitter_workshop/)). 
