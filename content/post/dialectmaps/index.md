@@ -27,7 +27,7 @@ I run the **Our Dialects** site, which includes over **30 interactive dialect ma
 
 {{< rawhtml >}}
   <div class="center-button">
-    <a href="http://projects.alc.manchester.ac.uk/ukdialectmaps/" target="_blank">
+    <a href="https://www.ourdialects.uk/" target="_blank">
       <button class="btnn"><i class="fas fa-arrow-alt-circle-right"></i> Click here to browse the maps</button>
     </a>
   </div>
