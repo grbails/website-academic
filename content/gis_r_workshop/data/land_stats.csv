@@ -1,0 +1,237 @@
+country,arable_land_prop,crop_cover_prop,forest_cover_prop
+Afghanistan,11.9,0.3,1.9
+Albania,22.3,3.1,28.8
+Algeria,3.2,0.4,0.8
+American Samoa,16,3.8,85.8
+Andorra,1.7,NA,34
+Angola,3.9,0.3,53.9
+Anguilla,NA,NA,61.1
+Antigua and Barbuda,9.1,2.3,18.6
+Argentina,11.9,0.4,10.5
+Armenia,15.6,2.1,11.5
+Aruba,11.1,NA,2.3
+Australia,4,0,17.4
+Austria,16.1,0.8,47.2
+Azerbaijan,25.4,3.1,13.6
+Bahamas,0.8,0.4,50.9
+Bahrain,2,3.8,0.9
+Bangladesh,61.2,6.4,14.5
+Barbados,16.3,2.3,14.7
+Belarus,28.1,0.5,43.1
+Belgium,28.3,0.8,22.8
+Belize,3.9,1.4,56.5
+Benin,24.8,5.3,28.2
+Bermuda,5.6,NA,18.5
+Bhutan,2.5,0.2,71.4
+Bolivia,4.2,0.2,47.1
+"Bonaire, St. Eustatius & Saba",NA,NA,5.9
+Bosnia and Herzegovina,19.8,2.1,42.7
+Botswana,0.5,0,27.1
+Brazil,6.7,0.9,59.6
+British Virgin Islands,6.7,6.7,24.1
+Brunei Darussalam,0.8,1.1,72.1
+Bulgaria,32,1.4,35.7
+Burkina Faso,21.9,0.4,22.9
+Burundi,46.7,13.6,10.9
+Cabo Verde,12.4,1,11.3
+Cambodia,22,1.1,46.6
+Cameroon,13.1,3.3,43.1
+Canada,4.3,0,38.7
+Cayman Islands,0.8,2.1,53
+Central African Republic,2.9,0.1,35.8
+Chad,4.1,0,3.5
+Channel Islands,18.3,NA,5.2
+Chile,1.6,0.7,24.3
+China,12.7,1.7,23.1
+"China, Hong Kong SAR",2.9,1,NA
+Colombia,5.4,3.5,53.5
+Comoros,35.5,26.9,17.9
+Republic of the Congo,1.6,0.2,64.3
+Cook Islands,4.2,2.1,65
+Costa Rica,5,6.3,59.1
+Côte d'Ivoire,11,14.2,9.3
+Croatia,14.7,1.3,34.6
+Cuba,29,6.3,31.2
+Curaçao,NA,NA,0.2
+Cyprus,10.4,3,18.7
+Czech Republic,32.2,0.6,34.7
+Dem. Rep. Korea,18.9,2.5,50.3
+Democratic Republic of the Congo,5.2,0.7,56.1
+Denmark,59.8,0.7,15.7
+Djibouti,0.1,NA,0.2
+Dominica,8,22.7,63.8
+Dominican Republic,18.2,7.3,44.2
+Ecuador,4,5.8,50.6
+Egypt,2.9,0.9,0
+El Salvador,34.8,7.7,28.4
+Equatorial Guinea,4.3,2.1,87.6
+Eritrea,5.7,0,8.7
+Estonia,15.9,0.1,56.1
+eSwatini,10.2,0.9,28.9
+Ethiopia,14.3,1.5,15.2
+Falkland Islands,NA,NA,0
+Faroe Islands,2.1,NA,0.1
+Fiji,9,4.7,62
+Finland,7.4,0,73.7
+France,33,1.8,31.4
+French Guiana,0.2,0.1,96.7
+French Polynesia,0.7,6.6,43.1
+Gabon,1.3,0.7,91.4
+The Gambia,43.5,0.5,24.5
+Georgia,4.4,1.7,40.6
+Germany,33.5,0.6,32.7
+Ghana,14.6,8.4,35.1
+Gibraltar,NA,NA,0
+Greece,16.6,8.4,30.3
+Greenland,NA,NA,0
+Grenada,8.8,11.8,52.1
+Guadeloupe,13.8,1.8,44.4
+Guam,1.9,13,51.9
+Guatemala,8,11,33
+Guinea,12.6,2.8,25.4
+Guinea-Bissau,10.7,8.9,70.7
+Guyana,2.1,0.2,93.6
+Haiti,38.8,10.2,12.7
+Holy See,NA,NA,0
+Honduras,9.1,5.1,57
+Hungary,47.3,1.9,22.5
+Iceland,1.2,NA,0.5
+India,52.5,4.5,24.2
+Indonesia,14,13.3,49.4
+Iran,9.6,1.2,6.6
+Iraq,11.5,0.6,1.9
+Ireland,6.4,0,11.3
+Isle of Man,42.3,NA,6.1
+Israel,17.5,4.6,6.5
+Italy,23.4,8.2,32.2
+Jamaica,11.1,8.8,54.8
+Japan,11.3,0.7,68.4
+Jordan,2.3,0.9,1.1
+Kazakhstan,11.1,0,1.3
+Kenya,10.2,0.9,6.3
+Kiribati,2.5,39.5,1.5
+Kuwait,0.4,0.3,0.4
+Kyrgyzstan,6.7,0.4,6.8
+Lao PDR,6.7,0.7,72.1
+Latvia,21.2,0.1,54.7
+Lebanon,12.9,12.3,14
+Lesotho,4.5,0.1,1.1
+Liberia,5.2,2.1,79.4
+Libya,1,0.2,0.1
+Liechtenstein,9.3,NA,41.9
+Lithuania,35.3,0.6,35.1
+Luxembourg,24.1,0.6,34.5
+Madagascar,5.2,1,21.4
+Malawi,38.2,2.1,24.2
+Malaysia,2.5,22.7,58.3
+Maldives,13,5,2.7
+Mali,5.3,0.1,10.9
+Malta,28.3,4.1,1.4
+Marshall Islands,11.1,36.1,52.2
+Martinique,10.3,4.4,49.1
+Mauritania,0.4,0,0.3
+Mauritius,36.9,2,19.1
+Mayotte,46.1,7.3,37.3
+Mexico,10,1.4,33.9
+Micronesia (Fed. States of),2.9,24.3,92
+Monaco,NA,NA,0
+Mongolia,0.9,0,9.1
+Montenegro,0.7,0.4,61.5
+Montserrat,20,NA,25
+Morocco,15.5,3.8,12.8
+Mozambique,7.2,0.4,47
+Myanmar,16.8,2.3,44.2
+Namibia,1,0,8.2
+Nauru,NA,20,0
+Nepal,14.7,1.5,41.6
+Netherlands,30,1.1,10.9
+New Caledonia,0.3,0.2,45.8
+New Zealand,2.1,0.3,37.5
+Nicaragua,12.5,2.4,29.1
+Niger,14,0.1,0.9
+Nigeria,37.3,7.1,23.9
+Niue,3.8,11.5,72.5
+Norfolk Island,NA,NA,12.3
+Macedonia,16.6,1.6,39.7
+Northern Mariana Islands,0.2,0.2,53
+Norway,2.2,0,33.3
+Oman,0.3,0.1,0
+Other non-specified areas,16.7,5.6,NA
+Pakistan,39.6,1,4.9
+Palau,0.7,4.3,89.8
+Panama,7.6,2.5,57
+Papua New Guinea,0.7,1.5,79.3
+Paraguay,11.9,0.2,41.2
+Peru,3.4,1.1,56.6
+Philippines,18.7,17.9,24
+Pitcairn,NA,NA,74.5
+Poland,36.1,1.1,30.9
+Portugal,10,8.5,36.2
+Puerto Rico,5.7,1.7,55.9
+Qatar,1.2,0.3,0
+Republic of Korea,14,2.2,64.5
+Moldova,51.4,7,11.8
+Réunion,13.6,1.2,39
+Romania,39,1.8,30.1
+Russian Federation,7.4,0.1,49.8
+Rwanda,46.7,10.1,11.1
+Saint Barthélemy,NA,NA,8.5
+Saint Helena,10.3,NA,5.1
+Saint Kitts and Nevis,19.2,0.4,42.3
+Saint Lucia,4.9,11.5,34
+Saint Martin (French part),NA,NA,24.8
+Saint Pierre and Miquelon,8.7,NA,5.4
+Saint Vincent & Grenadines,5.1,7.7,73.2
+Samoa,11.5,11,57.3
+San Marino,33.1,5.3,16.7
+Sao Tome and Principe,4.2,40.6,54.7
+Saudi Arabia,1.6,0.1,0.5
+Senegal,16.6,0.4,42.1
+Serbia,29.5,2.4,31.1
+Seychelles,0.3,3,73.3
+Sierra Leone,21.9,2.3,35.4
+Singapore,0.8,NA,22
+Sint Maarten (Dutch part),NA,NA,10.9
+Slovakia,28.1,0.4,40.1
+Slovenia,9,2.6,61.6
+Solomon Islands,0.7,3.2,90.2
+Somalia,1.8,0,9.7
+South Africa,9.9,0.3,14.1
+South Sudan,NA,NA,11.3
+Spain,23.6,9.9,37.2
+Sri Lanka,22.2,16.2,34.2
+Palestine,14.5,16.3,1.7
+Sudan,10.7,0.1,10
+Suriname,0.4,0,97.5
+Sweden,6.2,0,68.7
+Switzerland,10.1,0.6,32
+Syrian Arab Republic,25.4,5.8,2.8
+Tajikistan,5,1.1,3
+Thailand,32.9,8.8,39
+Timor-Leste,10.4,5,62
+Togo,48.7,3.1,22.3
+Tokelau,NA,60,0
+Tonga,27.8,15.3,12.4
+Trinidad and Tobago,4.9,4.3,44.6
+Tunisia,16.8,15.4,4.5
+Türkiye,25.4,4.6,28.7
+Turkmenistan,4.1,0.1,8.8
+Turks and Caicos Islands,1.1,NA,11.1
+Tuvalu,NA,60,33.3
+Uganda,34.4,11,11.9
+Ukraine,56.8,1.5,16.7
+United Arab Emirates,0.7,0.6,4.5
+United Kingdom,25.2,0.2,13.2
+Tanzania,15.2,2.4,52.2
+ United States,17.2,0.3,33.9
+United States Virgin Islands,2.3,0.6,56.5
+Uruguay,11.5,0.2,11.5
+Uzbekistan,9.2,0.9,8.3
+Vanuatu,1.6,10.3,36.3
+Venezuela,2.9,0.8,52.5
+Vietnam,21.6,15.8,46.5
+Wallis and Futuna Islands,7.1,35.7,41.6
+Western Sahara,0,NA,2.5
+Yemen,2.2,0.6,1
+Zambia,5.1,0,60.5
+Zimbabwe,10.3,0.3,45.2
