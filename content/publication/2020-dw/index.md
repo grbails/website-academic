@@ -22,7 +22,7 @@ publication: "In P. Honeybone & W. Maguire, *Dialect writing and the North of En
 publication_short: 
 publication_types:
 - "6"
-publishDate: "2020-09-00T00:00:00Z"
+publishDate: "2020-09-01T00:00:00Z"
 #slides: example
 summary: "(2020) In *Dialect writing and the North of England*"
 title: "The graphical representation of phonetic dialect features of the North of England on social media"

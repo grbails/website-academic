@@ -19,7 +19,7 @@ publication: "In *Journal of Linguistics*"
 publication_short: 
 publication_types:
 - "2"
-publishDate: "2020-12-00T00:00:00Z"
+publishDate: "2021-08-01T00:00:00Z"
 #slides: example
 summary: "(2021) Journal of Linguistics"
 title: "Insertion and deletion in Northern English (ng): Interacting innovations in the life cycle of phonological processes"

@@ -3,7 +3,7 @@ abstract: This paper investigates the social meaning of post‐nasal [ɡ]‐pres
 authors:
 - George Bailey
 #- admin (use admin for a clickable author link)
-date: "2019-02-00T00:00:00Z"
+date: "2019-02-01T00:00:00Z"
 #doi: "10.1111/josl.12307"
 featured: true
 image:

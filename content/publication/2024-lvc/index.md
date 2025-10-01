@@ -3,7 +3,7 @@ abstract: "Despite the attention (ing) has received in variationist literature, 
 authors:
 - 'George Bailey'
 #- admin (use admin for a clickable author link)
-date: "2024-11-00T00:00:00Z"
+date: "2024-11-01T00:00:00Z"
 doi: ""
 featured: true
 image:
@@ -19,7 +19,7 @@ publication: "In *Language Variation and Change*"
 publication_short: 
 publication_types:
 - "2"
-publishDate: "2024-11-00T00:00:00Z"
+publishDate: "2024-11-01T00:00:00Z"
 #slides: example
 summary: "(2024) Language Variation and Change"
 title: "Three's a crowd: Ternary (ing) variation in the North of England"

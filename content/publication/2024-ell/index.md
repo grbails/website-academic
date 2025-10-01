@@ -5,7 +5,7 @@ authors:
 - 'George Bailey'
 - 'Natalie Braber'
 #- admin (use admin for a clickable author link)
-date: "2024-03-00T00:00:00Z"
+date: "2024-03-01T00:00:00Z"
 doi: ""
 featured: true
 image:
@@ -21,7 +21,7 @@ publication: "In *English Language and Linguistics*"
 publication_short: 
 publication_types:
 - "2"
-publishDate: "2024-03-00T00:00:00Z"
+publishDate: "2024-03-01T00:00:00Z"
 #slides: example
 summary: "(2023) English Language and Linguistics"
 title: "Language change is _wicked_: semantic and social meaning of a polysemous adjective"

@@ -5,7 +5,7 @@ authors:
 - 'George Bailey'
 - 'Natalie Braber'
 #- admin (use admin for a clickable author link)
-date: "2024-02-00T00:00:00Z"
+date: "2024-02-01T00:00:00Z"
 doi: ""
 featured: true
 image:
@@ -21,7 +21,7 @@ publication: "In *English World-Wide*"
 publication_short: 
 publication_types:
 - "2"
-publishDate: "2024-02-00T00:00:00Z"
+publishDate: "2024-02-01T00:00:00Z"
 #slides: example
 summary: "(2024) English World-Wide"
 title: "How 'U' are 'U' words? Exploring variation in the usage and perception of class-based lexical shibboleths in British English"

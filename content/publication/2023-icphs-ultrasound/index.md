@@ -5,7 +5,7 @@ authors:
 - 'Amelia Gully'
 - 'George Bailey'
 #- admin (use admin for a clickable author link)
-date: "2023-08-00T00:00:00Z"
+date: "2023-08-01T00:00:00Z"
 doi: ""
 featured: true
 image:
@@ -21,7 +21,7 @@ publication: "In R. Skarnitzl & J. Volín, *Proceedings of the 20th Internationa
 publication_short: 
 publication_types:
 - "6"
-publishDate: "2023-08-00T00:00:00Z"
+publishDate: "2023-08-01T00:00:00Z"
 #slides: example
 summary: "(2023) In *Proceedings of the 20th International Congress of Phonetic Sciences (ICPhS 2023)*"
 title: "Markerless tongue pose estimation in cross-linguistic spoken and mimed speech using ultrasound"
