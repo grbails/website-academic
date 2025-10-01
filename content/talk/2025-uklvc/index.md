@@ -16,7 +16,7 @@ publishDate: "2025-09-03T00:00:00Z"
 #slides: example
 summary: (2025) Paper presented at UKLVC15
 tags: ["dialectology", "northern english"]
-title: Northern roots: Random forests and northern English dialect levelling revisited
+title: "Northern roots: Random forests and northern English dialect levelling revisited"
 #url_code: ""
 #url_pdf: ""
 url_slides: "slides/2025_uklvc_slides.pdf"
