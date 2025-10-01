@@ -16,7 +16,7 @@ publishDate: "2023-06-27T00:00:00Z"
 #slides: example
 summary: (2023) Paper presented at UKLVC14
 tags: ["str", "ultrasound", "northern english", "sound change"]
-title: An articulatory study of /s/-retraction: How does thish change behave across word boundaries?
+title: "An articulatory study of /s/-retraction: How does thish change behave across word boundaries?"
 #url_code: ""
 #url_pdf: ""
 url_slides: "slides/2023_uklvc_slides.pdf"
