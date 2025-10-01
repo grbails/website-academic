@@ -16,7 +16,7 @@ publishDate: "2025-05-29T00:00:00Z"
 #slides: example
 summary: (2025) Paper presented at the 46th International Child Phonology Conference
 tags: ["ultrasound", "phonological development", "child language acquisition"]
-title: The development of the infant vocal tract: An ultrasound study
+title: "The development of the infant vocal tract: An ultrasound study"
 #url_code: ""
 #url_pdf: ""
 url_slides: "slides/2025_uklvc_slides.pdf"
